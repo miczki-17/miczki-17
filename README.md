@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @miczki-17
+- 👋 Hi, I’m Mikołaj Papierski
 - 👀 I’m interested in robotisc, automatics, programming
-- 🌱 I’m currently learning game development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying
 - 📫 How to reach me - just send on my email ( miczkipap@gmail.com )
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
